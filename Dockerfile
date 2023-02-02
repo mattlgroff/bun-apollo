@@ -1,4 +1,4 @@
-# Debain is what Bun uses for their docker image
+# Debian is what Bun uses for their docker image
 FROM debian:bullseye-slim
 
 # Install curl and unzip and source

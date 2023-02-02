@@ -1,6 +1,6 @@
 Powered by Bun and Apollo Server. That's it.
 
-I wrote an article about making an Apollo Server with Bun [here](https://groff.dev/bun-apollo/) (Coming Soon)
+I wrote an article about making an Apollo Server with Bun [here](https://groff.dev/bun-apollo-server/)
 
 ## Features:
 * Apollo Server 4
