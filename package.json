@@ -4,13 +4,12 @@
   "description": "Bun Apollo Server",
   "main": "src/index.js",
   "scripts": {
-    "start": "bun src/index.js"
+    "start": "bun index.js"
   },
   "author": "Matthew Groff",
   "license": "MIT",
   "dependencies": {
     "@apollo/server": "^4.3.2",
-    "graphql": "^16.6.0",
-    "jose": "npm:jose"
+    "graphql": "^16.6.0"
   }
 }
