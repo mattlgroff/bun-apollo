@@ -22,4 +22,4 @@ docker run -p 4000:4000 bun-apollo
 docker-compose up
 ```
 
-The Apollo Server should be running on the port `4000` you can visit: `http://localhost:4000` to see the GraphQL Playground.
+The Apollo Server should be running on the port `4000` you can visit: `http://localhost:4000/graphql` to see Apollo Studio.
