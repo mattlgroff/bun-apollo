@@ -1,0 +1,16 @@
+{
+  "name": "bun-apollo",
+  "version": "1.0.0",
+  "description": "Bun Apollo Server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "bun src/index.js"
+  },
+  "author": "Matthew Groff",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/server": "^4.3.2",
+    "graphql": "^16.6.0",
+    "jose": "npm:jose"
+  }
+}
